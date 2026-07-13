@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Glowing MTCL</string>
+    <string name="title_activity_main">Glowing MTCL</string>
+    <string name="package_name">com.mtcl.glowingchat</string>
+    <string name="custom_url_scheme">com.mtcl.glowingchat</string>
+</resources>

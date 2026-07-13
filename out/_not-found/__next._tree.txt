@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[76081,["/_next/static/chunks/0c4cbadbc894bcd1.js","/_next/static/chunks/880b0a28cafce345.js"],"ViewportBoundary"]
+4:I[76081,["/_next/static/chunks/0c4cbadbc894bcd1.js","/_next/static/chunks/880b0a28cafce345.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+:HL["/_next/static/chunks/0806d48f6157efa6.css","style"]
+0:{"buildId":"cHx-pFhUOrf7JyktdC5PF","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#fafaf9"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#1c1b1a"}]]
+6:[["$","title","0",{"children":"Nova — Ask anything"}],["$","meta","1",{"name":"description","content":"Nova is an AI assistant that answers anything. Chat across models, get instant answers, write code, and more."}],["$","meta","2",{"name":"generator","content":"v0.app"}]]
